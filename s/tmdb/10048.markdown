@@ -1,0 +1,12 @@
+---
+Title: Stealth
+Type: TMDB
+TMDB: 10048
+---
+
+*Stealth* is a contemporary science-fiction movie released in 2008.
+
+# Links
+
+* [themoviedb.org](http://www.themoviedb.org/movie/10048-stealth)
+* [Wikipedia](https://en.wikipedia.org/wiki/Stealth_(film))
