@@ -28,6 +28,7 @@ The relationship Vasquez has with the rest of the marines is a close, friendly r
 Since this is an action move, there is very little time to develop Vasquez as a character beyond shooting and killing. In plot, there is only one spoken reference to her gender:
 
 > Hudson: Hey Vasquez, have you ever been mistaken for a man? 
+>
 > Vasquez: No. Have you? 
 
 None of the other male marines make any comment on gender, either theirs or other marines.
