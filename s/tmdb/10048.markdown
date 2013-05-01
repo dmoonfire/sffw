@@ -1,6 +1,7 @@
 ---
 Title: Stealth
 Type: TMDB
+Year: 2005
 TMDB: 10048
 ---
 
@@ -9,4 +10,3 @@ TMDB: 10048
 # Links
 
 * [themoviedb.org](http://www.themoviedb.org/movie/10048-stealth)
-* [Wikipedia](https://en.wikipedia.org/wiki/Stealth_(film))

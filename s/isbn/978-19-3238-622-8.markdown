@@ -1,6 +1,7 @@
 ---
 Title: Artesia
 Type: ISBN
+Year: 2011
 ISBN: 978-19-3238-622-8
 Author: Smylie, Mark S.
 ---
