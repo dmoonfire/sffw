@@ -7,6 +7,7 @@ Theme:
   - Pinup Armor
   - Top Dog
   - Gloriously Naked
+  - Main Character
 ISBN:
   - 978-19-3238-622-8
 ---

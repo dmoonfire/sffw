@@ -1,10 +1,11 @@
 ---
 Title: J. Vasquez
 Type: Character
-TMDB: 679
+TMDB: [679]
 Theme:
   - Professional Fighter
   - One of the Guys
+  - Supporting Character
 ---
 
 Vasquez is a private in the Colonial Marines in the movie [Aliens](/s/tmdb/679/).

@@ -1,12 +1,14 @@
 ---
 Title: Kara Wade
 Type: Character
-TMDB: 10048
+TMDB: [10048]
 Theme:
   - Professional Fighter
   - All for a Man
   - Seen From Behind
   - Pinup Armor
+  - Seen in Isolation
+  - Main Character
 LocalWords: Gannon TMDB
 ---
 
@@ -26,9 +28,9 @@ For the most part, her character is shown in a more feminine outfit during her n
 
 In the air, it is hard to determine which planes shoot down which targets, however she is not isolated as either being significantly effective or ineffective at attacks.
 
-On the ground, Kara uses her gun twice. In both cases, they were wild shots. In the first, she strikes an unnamed enemy in the knee and in the second, she shoots out a spotlight in a DMZ (and possibly kills someone but that isn't shown).
+On the ground, Kara uses her gun twice. In both cases, they were wild shots while she was [fleeing alone](/t/seen-in-isolation/). In the first, she strikes an unnamed enemy in the knee and in the second, she shoots out a spotlight in a DMZ (and possibly kills someone but that isn't shown).
 
-She is also the only character who is shown to review the consequences of her actions. This happens both in reporting (but not making the final decision) about blowing up a nuclear weapon but also in the longer scene as she is looking at the destruction of Henry's crash. She also hesitates and hides her weapon when she encounters children after her own crash.
+She is also the only character who is shown to consider the consequences of her actions. This happens both in reporting (but not making the final decision) about blowing up a nuclear weapon but also in the longer scene as she is looking at the destruction of Henry's crash. She also hesitates and hides her weapon when she encounters children after her own crash.
 
 # Relationships
 
