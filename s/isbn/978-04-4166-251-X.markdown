@@ -1,0 +1,9 @@
+---
+Title: Phule's Company
+Type: ISBN
+Year: 1990
+ISBN: 978-04-4166-251-X
+Author: Asprin, Robert
+---
+
+*Phule's Company* is the first in a series of four books by [Robert Asprin](/a/asprin-robert/).
