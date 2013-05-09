@@ -5,9 +5,10 @@ Theme:
   - Professional Fighter
   - Supporting Character
 ISBN: [978-04-4166-251-X]
-Summary: Brandy is the top sergeant [Robert Asprin's](/t/asprin-robert/)'s series starting with [Phule's Company](/s/isbn/978-04-4166-251-X/). She is dour and a pessimist but loyal.
+Summary: Brandy is the top sergeant Robert Asprin's series starting with Phule's Company. She is dour and a pessimist but loyal.
 Title: Brandy
 ---
+Brandy is the top sergeant [Robert Asprin's](/t/asprin-robert/) series starting with [Phule's Company](/s/isbn/978-04-4166-251-X/). She is dour and a pessimist but loyal.
 
 # Attitude
 

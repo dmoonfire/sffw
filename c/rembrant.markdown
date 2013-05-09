@@ -5,9 +5,11 @@ Theme:
   - Professional Fighter
   - Supporting Character
 ISBN: [978-04-4166-251-X]
-Summary: Rembrandt is a lieutenant in [Robert Asprin's](/t/asprin-robert/)'s series starting with [Phule's Company](/s/isbn/978-04-4166-251-X/). She is a relatively meek woman who is willing to let others do the job for her.
+Summary: Rembrandt is a lieutenant in Robert Asprin's series starting with Phule's Company. She is a relatively meek woman who is willing to let others do the job for her.
 Title: Rembrandt
 ---
+
+Rembrandt is a lieutenant in [Robert Asprin's](/t/asprin-robert/) series starting with [Phule's Company](/s/isbn/978-04-4166-251-X/). She is a relatively meek woman who is willing to let others do the job for her.
 
 # Attitude
 

@@ -6,9 +6,10 @@ Theme:
   - Professional Fighter
   - One of the Guys
   - Not the Same
-Summary: Elena is an [Air Force](/t/professional-fighter/) Technical Sargent in the movie [Battle: Los Angeles](/s/tmdb/44943/).
+Summary: Elena is an Air Force Technical Sargent in the movie Battle: Los Angeles.
 Title: Elena Santos
 ---
+Elena is an [Air Force](/t/professional-fighter/) Technical Sargent in the movie [Battle: Los Angeles](/s/tmdb/44943/).
 
 # Attitude
 

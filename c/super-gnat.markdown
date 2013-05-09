@@ -5,9 +5,10 @@ Theme:
   - Professional Fighter
   - Supporting Character
 ISBN: [978-04-4166-251-X]
-Summary: Super Gnat is a Legionnaire in [Robert Asprin's](/t/asprin-robert/)'s series starting with [Phule's Company](/s/isbn/978-04-4166-251-X/). She is a short woman who frequently takes offense at jokes about her height.
+Summary: Super Gnat is a Legionnaire in Robert Asprin's series starting with Phule's Company. She is a short woman who frequently takes offense at jokes about her height.
 Title: Super Gnat
 ---
+Super Gnat is a Legionnaire in [Robert Asprin's](/t/asprin-robert/) series starting with [Phule's Company](/s/isbn/978-04-4166-251-X/). She is a short woman who frequently takes offense at jokes about her height.
 
 # Attitude
 

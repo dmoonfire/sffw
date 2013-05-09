@@ -6,9 +6,10 @@ Theme:
   - Supporting Character
   - Caregiver
 ISBN: [978-04-4166-251-X]
-Summary: Rose is a communications specialist in [Robert Asprin's](/t/asprin-robert/)'s series starting with [Phule's Company](/s/isbn/978-04-4166-251-X/). She is cheerful and friendly, but only on the microphone, otherwise she is crippling shy.
+Summary: Rose is a communications specialist in Robert Asprin's series starting with Phule's Company. She is cheerful and friendly, but only on the microphone, otherwise she is crippling shy.
 Title: Rose (Mother)
 ---
+Rose is a communications specialist in [Robert Asprin's](/t/asprin-robert/) series starting with [Phule's Company](/s/isbn/978-04-4166-251-X/). She is cheerful and friendly, but only on the microphone, otherwise she is crippling shy.
 
 # Attitude
 
