@@ -21,8 +21,6 @@ In her other mode, she is exuberant and speaks with a very familiar tone of voic
 True to Robert Asprin's style of terse descriptions, there only one sentence that describes Rose:
 
 > As they had noted, she was attractive enough, with ash-blond hair and the kind of figure usually described as willowy.
->
-> --- Robert Asprin, Phule's Company
 
 Beyond that, there are no other descriptions of her appearance.
 
